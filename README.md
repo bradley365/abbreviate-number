@@ -14,8 +14,8 @@ JavaScript function to abbreviate a number to and return string with given scale
 ```
 
   **Parameters**    
-  @param *number* n -number to be abbreviated   
-  @param *number* s - the scale, or digits, to include in the abbreviation  
+  @param *number* number -number to be abbreviated   
+  @param *number* scale - the scale, or digits, to include in the abbreviation  
   @return *string* - abbreviated number with unit suffix   
  
  
