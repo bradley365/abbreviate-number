@@ -1,5 +1,5 @@
 # abbreviate-number
-JavaScript function to abbreviate a number to and return string with given scale (digits) and unit suffix.
+JavaScript function to abbreviate a number to and return string with a given scale (digits) and unit suffix.
 
 ###Example
 ```js  
