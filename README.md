@@ -5,14 +5,15 @@ JavaScript function to abbreviate a number to and return string with given scale
 ```js  
    var abbr = abbreviate(123456,2);
    // '123.46 K'
-
+```
 
 ###Usage
 ```js  
    <script src="abbreviate.js"></script>   
    abbreviate(number, scale);
+```
 
-  Parameters   
+  **Parameters**    
   @param *number* n -number to be abbreviated   
   @param *number* s - the scale, or digits, to include in the abbreviation  
   @return *string* - abbreviated number with unit suffix   
