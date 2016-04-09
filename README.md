@@ -31,7 +31,7 @@ aymericbeaumet: [http://stackoverflow.com/users/1071486/aymericbeaumet](http://s
 code originally posted on [JSFiddle](http://jsfiddle.net/aymericbeaumet/zb5hqx83/)
 
 *modified* :   
-bradley365, March 2016: [https://github.com/bradley365](https://github.com/bradleynhicks)
+bradley365, March 2016: [https://github.com/bradley365](https://github.com/bradley365)
 
 ###License  
 This work is licensed under a [Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)]
